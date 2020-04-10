@@ -1,7 +1,27 @@
+# Elder Scroll(er)s
+
+A pretty basic React application that provides infinite scrolling
+of Elder Scroles card information. The data is provided by
+[the Elder Scrolls Legends API](https://docs.elderscrollslegends.io/#documentationgetting_started).
+
+## Running the Application
+
+Install the dependencies from NPM:
+
+```bash
+npm i
+```
+
+Once the dependencies are installed, run the application via:
+
+```bash
+npm run start
+```
 
 ## Colors
 
 * [Primary](https://www.colorhexa.com/333366)
+* [Secondary](https://www.colorhexa.com/666633)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
