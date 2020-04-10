@@ -4,6 +4,14 @@ A pretty basic React application that provides infinite scrolling
 of Elder Scroles card information. The data is provided by
 [the Elder Scrolls Legends API](https://docs.elderscrollslegends.io/#documentationgetting_started).
 
+## Notes/TODO
+
+If this were a production application, I would fix the warnings that
+exist in the react-stickynode and react-infinite-scroll-component
+components that are used to keep the search box visible when scrolling
+and implement infinite scrolling. The warnings pertain to componentWillReceiveProps
+having been renamed.
+
 ## Running the Application
 
 Install the dependencies from NPM:
